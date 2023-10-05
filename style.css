@@ -1,0 +1,68 @@
+.btn{
+   border-color: rgb(255, 255, 255);
+   text-emphasis-color: white;
+   justify-content: end;
+}
+.title-text{
+    width: 582px;
+    height: 252px;
+    top: 230px;
+    left: 120px;
+    font-family: sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 84px;
+    color: #FFFFFF;
+}
+.title{
+    display: flex;
+    width: 655.29px;
+    height: 712.88px;
+    top: 107px;
+    left: 750px;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+main {
+    display: block;
+}
+div {
+    display: block;
+}
+.title-photo{
+    display: flex;
+    justify-content: space-between;
+}
+.ismo_png {
+    position: absolute;
+    left: 800px;
+}
+.text2{
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 39px;
+    width: 588px;
+    height: 78px;
+    top: 971px;
+    left: 732px;
+    color: #FFFFFFB2;
+    margin-top: 60px;
+}
+.section2 {
+    display: block;
+}
+.gg{
+    color: #FFF;
+text-align: center;
+font-family: Graphik;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px; /* 116.667% */
+padding: 50px;
+}
+
+
